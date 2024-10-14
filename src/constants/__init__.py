@@ -1,0 +1,4 @@
+MONGODB_URL: str = ""
+MONGODB_DATABASE_NAME: str = ""
+
+SESSION_PRODUCT_KEY: str = "product"
