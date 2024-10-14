@@ -2,5 +2,5 @@ pandas
 selenium == 4.15.2
 streamlit == 1.28.0
 tiktoken ==0.4.0
-
+bs4==0.0.2
 -e .
